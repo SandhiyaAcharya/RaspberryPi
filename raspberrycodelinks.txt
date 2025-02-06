@@ -3,3 +3,6 @@ https://how2electronics.com/how-to-use-ads1115-16-bit-adc-module-with-raspberry-
 
 RTC-DS3231
 https://electrocredible.com/ds3231-rtc-esp32-micropython/
+
+Microsdcard
+https://how2electronics.com/micro-sd-card-module-with-raspberry-pi-pico-micropython/
