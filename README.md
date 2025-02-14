@@ -7,3 +7,6 @@ Export the data inside the database in excel format and store it in a folder.
 
 **send_serial.py** -
 Send and Receive data from FT232 Serial (UART) IC through a USB-to-Serial adapter of Raspberry pi port.
+
+**test_blynk** - 
+Send and receive data from raspberry to blynk mobile and web app(basic testing)
