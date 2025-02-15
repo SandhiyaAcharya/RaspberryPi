@@ -10,3 +10,6 @@ Send and Receive data from FT232 Serial (UART) IC through a USB-to-Serial adapte
 
 **test_blynk** - 
 Send and receive data from raspberry to blynk mobile and web app(basic testing)
+
+**Flaskapp** - 
+Basic testing to check the user login,user details update. Also Get and Post the data entries of the database.
